@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/contactmanager/static/css/main.36497136.chunk.css",
-    "main.js": "/contactmanager/static/js/main.fd75041a.chunk.js",
-    "main.js.map": "/contactmanager/static/js/main.fd75041a.chunk.js.map",
-    "runtime~main.js": "/contactmanager/static/js/runtime~main.884ecd02.js",
-    "runtime~main.js.map": "/contactmanager/static/js/runtime~main.884ecd02.js.map",
-    "static/css/2.266e55a5.chunk.css": "/contactmanager/static/css/2.266e55a5.chunk.css",
-    "static/js/2.761dcf03.chunk.js": "/contactmanager/static/js/2.761dcf03.chunk.js",
-    "static/js/2.761dcf03.chunk.js.map": "/contactmanager/static/js/2.761dcf03.chunk.js.map",
-    "index.html": "/contactmanager/index.html",
-    "precache-manifest.c2d8b38b772a34f8444006d2d9e9fcae.js": "/contactmanager/precache-manifest.c2d8b38b772a34f8444006d2d9e9fcae.js",
-    "service-worker.js": "/contactmanager/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/contactmanager/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.36497136.chunk.css.map": "/contactmanager/static/css/main.36497136.chunk.css.map"
+    "main.css": "/react-contact-manager/static/css/main.36497136.chunk.css",
+    "main.js": "/react-contact-manager/static/js/main.2c87d4ae.chunk.js",
+    "main.js.map": "/react-contact-manager/static/js/main.2c87d4ae.chunk.js.map",
+    "runtime~main.js": "/react-contact-manager/static/js/runtime~main.f3ab48b1.js",
+    "runtime~main.js.map": "/react-contact-manager/static/js/runtime~main.f3ab48b1.js.map",
+    "static/css/2.266e55a5.chunk.css": "/react-contact-manager/static/css/2.266e55a5.chunk.css",
+    "static/js/2.aca772fe.chunk.js": "/react-contact-manager/static/js/2.aca772fe.chunk.js",
+    "static/js/2.aca772fe.chunk.js.map": "/react-contact-manager/static/js/2.aca772fe.chunk.js.map",
+    "index.html": "/react-contact-manager/index.html",
+    "precache-manifest.c4f5ec1b1dba28859d8de677a526684e.js": "/react-contact-manager/precache-manifest.c4f5ec1b1dba28859d8de677a526684e.js",
+    "service-worker.js": "/react-contact-manager/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/react-contact-manager/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/react-contact-manager/static/css/main.36497136.chunk.css.map"
   }
 }
